@@ -13,17 +13,6 @@
       <li>Menandai tugas sebagai selesai atau belum selesai</li>
       <li>Menampilkan tugas berdasarkan kategori</li>
     </ul>
-    <h2>Teknologi</h2>
-    <p>
-      To Do App dibangun dengan menggunakan teknologi berikut:
-    </p>
-    <ul>
-      <li>Vue.js</li>
-      <li>Vue Router</li>
-      <li>Bootstrap</li>
-      <li>LocalStorage API</li>
-    </ul>
-  </div>
 </template>
 
 <style>
